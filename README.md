@@ -4,6 +4,5 @@
 ```
 # undefined behavior
 # name lookup
-# access control
 # ambiguity
 # Initialization
