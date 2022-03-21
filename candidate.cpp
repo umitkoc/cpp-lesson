@@ -195,3 +195,9 @@ int remove()
     write();
     return 0;
 }
+
+int main()
+{
+    startPage();
+    return 0;
+}
